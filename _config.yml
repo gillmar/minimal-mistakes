@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Marc"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/avatarBMWnineT.jpg"
   bio              : "Living with C7 since years"
   location         : "Eschborn EB.08.301"
   email            : "marc.gillmann@deutsche-boerse.com"
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : 
   gitlab           :
   google_plus      :
   keybase          :
