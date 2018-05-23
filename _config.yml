@@ -23,7 +23,7 @@ description              : "Home of C7 Core."
 url                      : "https://gillmar.github.io"
 baseurl                  : "/minimal-mistakes"
 repository               : "gillmar/minimal-mistakes"
-teaser                   : "/assets/images/c7_banner.jpg"
+teaser                   : "/assets/images/Clearing_346x194_auf_white.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
