@@ -1,3 +1,8 @@
+---
+title: SDE Meeting 22.05.2018
+tags: C7 SDE Meeting
+---
+
 C7 SDE Meeting                                                                Di 22.05.2018
 RHO, MG, DHD, MBK, WIS, ML, TG, TS
 ===========================================================================================
