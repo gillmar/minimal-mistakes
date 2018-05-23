@@ -1,6 +1,5 @@
 ---
-layout: post
-title: Blogging Like a Hacker
+title: Launch of 174-RC
 tags: 174-RC
 categories: Release Candidates
 ---
