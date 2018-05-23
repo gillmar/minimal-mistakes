@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "contrast" # "default", "air", "aqua", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "de-DE"
+locale                   : "en-DE"
 title                    : "C7 Core"
 title_separator          : "-"
 name                     : "Your Name"
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Marc Gillmann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "HoU ETD Clearing AD FFM"
+  location         : "Eschborn EB.08.301"
+  email            : "marc.gillmann@deutsche-boerse.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -236,13 +236,13 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
+jekyll-archives: # 23.05.2018
+   enabled:
+     - categories
+     - tags
+   layouts:
+     category: archive-taxonomy
+     tag: archive-taxonomy
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
