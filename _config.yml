@@ -105,15 +105,15 @@ author:
   bio              : "Living with C7 since years"
   location         : "Eschborn EB.08.301"
   email            : "marc.gillmann@deutsche-boerse.com"
-  uri              : "www.deutsche-boerse.com"
+  uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/DeutscheBoerseAG"
+  facebook         : "DeutscheBoerseAG"
   foursquare       :
-  github           : "https://github.com/gillmar"
+  github           : "gillmar"
   gitlab           :
   google_plus      :
   keybase          :
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          : "https://twitter.com/deutscheboerse"
+  twitter          : "deutscheboerse"
   vine             :
   weibo            :
   xing             :
