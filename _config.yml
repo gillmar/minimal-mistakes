@@ -105,31 +105,31 @@ author:
   bio              : "Living with C7 since years"
   location         : "Eschborn EB.08.301"
   email            : "marc.gillmann@deutsche-boerse.com"
-  uri              :
+  uri              : "www.deutsche-boerse.com"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/DeutscheBoerseAG"
   foursquare       :
-  github           : 
+  github           : "https://github.com/gillmar"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "deutsche-borse" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "https://twitter.com/deutscheboerse"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : "https://www.youtube.com/user/deutscheboersegroup"
 
 
 # Reading Files
