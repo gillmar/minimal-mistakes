@@ -1,6 +1,9 @@
+---
+title: About
+tags: General
+category: Deloyment
 permalink: /about/
-
-[![Build Status](https://scmci1.deutsche-boerse.de/buildStatus/icon?job=Clear/AE-Clear-Core/AE-CleaR_CI_Build)](https://scmci1.deutsche-boerse.de/job/Clear/view/Projects/job/AE-Clear-Core/view/NCA_AE-CleaR_CI_Pipeline/job/AE-CleaR_CI_Build/)
+---
 
 # Eurex Clearing’s C7
 
