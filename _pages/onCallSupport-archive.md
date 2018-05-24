@@ -1,10 +1,7 @@
 ---
-title: onCallSipport
 layout: collection
-permalink: /onCallSupport/
+title: "On Call Support"
 collection: onCallSupport
-entries_layout: grid
-classes: wide
+permalink: /onCallSupport/
+author_profile: false
 ---
-
-Sample document listing for the collection `_portfolio`.
