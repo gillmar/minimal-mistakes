@@ -1,10 +1,9 @@
 ---
+title: Eurex Clearing’s C7
 permalink: /about/
 layout: single
 author_profile: true
 ---
-
-# Eurex Clearing’s C7
 
 Delivering innovation on a broad scale, Eurex Clearing’s C7 is designed to leave no footprint on the participant side allowing you to choose the technology that’s right for your business. C7 is designed to ensure more flexibility for the introduction of new products & services and keeps you well prepared for evolving regulatory changes.
 
