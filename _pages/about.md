@@ -1,8 +1,8 @@
 ---
 title: About
-tags: General
-category: Deloyment
 permalink: /about/
+layout: pages
+author_profile: true
 ---
 
 # Eurex Clearing’s C7
