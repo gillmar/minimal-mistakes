@@ -1,6 +1,6 @@
 ---
 title: "Pages by Year"
 permalink: /page-archive/
-layout: pages
+layout: single
 author_profile: true
 ---
