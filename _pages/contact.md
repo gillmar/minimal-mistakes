@@ -1,13 +1,7 @@
 ---
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-      permalink: /contact/
+title: Contacts
+permalink: /contact/
+layout: single
+author_profile: true
 ---
-
 Contact me
