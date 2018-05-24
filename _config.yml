@@ -255,6 +255,8 @@ compress_html:
   ignore:
     envs: development
 
+collections:
+- onCallSupport
 
 # Defaults
 defaults:
@@ -270,6 +272,7 @@ defaults:
       share: true
       related: true
 
+  # _pages
   - scope:
       path: ""
       type: pages
@@ -280,3 +283,10 @@ defaults:
       comments: # true
       share: true
       related: true
+
+  # _Collections
+  - scope:
+      path: ""
+      type: onCallSupport
+    values:
+      layout: page
