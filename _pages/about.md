@@ -1,9 +1,22 @@
 ---
-title: Eurex Clearing’s C7
+title: "About"
 permalink: /about/
-layout: single
-author_profile: true
+excerpt: "All about C7 Core"
+layouts_gallery:
+  - url: /assets/images/mm-layout-splash.png
+    image_path: /assets/images/mm-layout-splash.png
+    alt: "splash layout example"
+  - url: /assets/images/mm-layout-single-meta.png
+    image_path: /assets/images/mm-layout-single-meta.png
+    alt: "single layout with comments and related posts"
+  - url: /assets/images/mm-layout-archive.png
+    image_path: /assets/images/mm-layout-archive.png
+    alt: "archive layout example"
+last_modified_at: 2018-04-10T08:41:35-04:00
+toc: true
 ---
+
+# Eurex Clearing’s C7
 
 Delivering innovation on a broad scale, Eurex Clearing’s C7 is designed to leave no footprint on the participant side allowing you to choose the technology that’s right for your business. C7 is designed to ensure more flexibility for the introduction of new products & services and keeps you well prepared for evolving regulatory changes.
 
