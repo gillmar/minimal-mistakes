@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Marc"
-  avatar           : "/assets/images/avatarBMWnineT.jpg"
+  name             : "C7 Maintenance Team"
+  avatar           : # "/assets/images/avatarBMWnineT.jpg"
   bio              : "Living with C7 since years"
   location         : "Eschborn EB.08.301"
-  email            : "marc.gillmann@deutsche-boerse.com"
+  email            : "&C7_Maintenance_Team@deutsche-boerse.com"
   uri              : 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   flickr           :
   facebook         : "DeutscheBoerseAG"
   foursquare       :
-  github           : "gillmar"
+  github           : dev/C7-Core
   gitlab           :
   google_plus      :
   keybase          :
